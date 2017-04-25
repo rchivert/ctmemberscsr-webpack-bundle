@@ -1,0 +1,24 @@
+{
+  "name": "ctmemberscsr-webpack-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^2.0.41",
+    "@types/knockout": "^3.4.40",
+    "@types/sharepoint": "^2013.1.4"
+  },
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "knockout": "^3.4.2",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "uglifyjs-webpack-plugin": "^0.4.3",
+    "webpack": "^2.4.1"
+  }
+}
